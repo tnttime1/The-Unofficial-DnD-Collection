@@ -21,4 +21,5 @@ public class Content {
         this.name=name;
         this.description=description;
     }
+    protected Content(){}
 }
